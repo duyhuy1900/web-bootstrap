@@ -1,0 +1,35 @@
+.bg-c {
+    background-color: #D8D8D8;
+    height: 370px;
+}
+
+.tit {
+    margin-left: 19px;
+    padding-top: 29px;
+}
+
+.bg {
+    justify-content: space-evenly;
+    margin-top: 80px;
+}
+
+.att {
+    background-color: white;
+    text-align: center;
+    padding: 29px 2px;
+    font-size: 25px;
+}
+
+.color-t {
+    color: #ff6b81;
+    font-weight: bold;
+}
+
+.f-t a {
+    text-decoration: none;
+}
+
+.bg-foot {
+    background-color: #ff6b81;
+    color: white;
+}

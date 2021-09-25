@@ -1,0 +1,117 @@
+.color-t {
+    color: #ff6b81;
+    font-weight: bold;
+}
+
+.mg-top {
+    margin-top: 20px;
+    margin-left: 10px;
+    float: right;
+}
+
+.input-s {
+    width: 400px;
+    height: 38px;
+    border-radius: 5px;
+    border: 2px solid white;
+    margin-top: 89px;
+}
+
+.search-s {
+    height: 41px;
+    border-radius: 5px;
+    background-color: #ff6b81;
+    color: white;
+    background-size: cover;
+    border: 2px;
+}
+
+.banner {
+    height: 220px;
+    text-align: center;
+    padding-top: 20px;
+    background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 20px;
+    background-position: center;
+}
+
+.align-t {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.positi {
+    position: relative;
+}
+
+.list-menu {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 30px;
+}
+
+.menu-f {
+    flex-grow: 1;
+    background-color: white;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.menu-f img {
+    padding: 20px;
+    width: 94%;
+    float: left;
+    border-radius: 30px;
+}
+
+.menu-f .nav-menu {
+    width: 40%;
+}
+
+.decreption {
+    margin-block: 10px;
+}
+
+.decreption p {
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+.decreption .btn-order {
+    border-radius: 5px;
+    background-color: #ff6b81;
+    color: white;
+    background-size: cover;
+    border: 2px;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    width: 80px;
+    margin-top: 8px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.bg {
+    background-color: #D8D8D8;
+}
+
+.see a {
+    text-decoration: none;
+    color: #ff6b81;
+}
+
+.icon ul {
+    list-style: none;
+}
+
+.con ul li {
+    display: inline;
+}
+
+.f-t a {
+    color: #ff6b81;
+    text-decoration: none;
+}
